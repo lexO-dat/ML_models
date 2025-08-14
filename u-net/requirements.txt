@@ -1,0 +1,12 @@
+# Deep Learning Framework
+torch
+torchvision
+
+# Image Processing
+Pillow
+
+# Scientific Computing
+numpy
+
+# Visualization
+matplotlib
