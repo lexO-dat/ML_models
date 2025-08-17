@@ -9,6 +9,8 @@ __pycache__/
 
 #dataset folders
 u-net/data/
+**data/
+**dataset/
 
 
 # Distribution / packaging
