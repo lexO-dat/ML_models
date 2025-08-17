@@ -8,6 +8,8 @@ This repository contains my utilities and custom implementations for various mac
 
 - **Simple_GAN/**: Implementation of a GAN using only 1 layer nn (To show limitations and a brief idea of how GANs work).
 
+- **DCGAN**: Implementation of a DCGAN with conv layers.
+
 ## Notes
 - **Datasets** are referenced in code but should be downloaded separately due to size.
 - **Dependencies** for each project are listed in their respective `requirements.txt` files.
